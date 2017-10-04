@@ -1,0 +1,6 @@
+{
+    "name": "ignacio/custom-gii",
+    "description": "Custom gii para generar model y crud en yii2",
+    "type": "library",
+    "require": {}
+}
